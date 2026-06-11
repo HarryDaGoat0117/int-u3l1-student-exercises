@@ -35,3 +35,5 @@ Learn about variables in JavaScript, how to declare them, assign values, and man
 - Basic ones include: `+`, `-`, `*`, `/`.
 
 ---
+
+
